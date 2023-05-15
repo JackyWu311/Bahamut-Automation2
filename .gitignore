@@ -90,4 +90,4 @@ web/docs/
 # Config
 config/
 
-/example/*
+/example/*.yml
