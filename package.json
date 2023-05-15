@@ -1,6 +1,6 @@
 {
     "name": "bahamut-automation",
-    "version": "1.0.0-pre.18",
+    "version": "1.0.0-pre.19",
     "description": "免費開源的巴哈姆特自動化！",
     "type": "module",
     "main": "dist/core/lib/index.js",
@@ -37,7 +37,6 @@
         "@types/html-to-text": "^8.1.0",
         "bahamut-automation": "workspace:*",
         "commander": "^9.4.0",
-        "countapi-js": "^1.0.2",
         "html-to-text": "^8.2.1",
         "is-docker": "^3.0.0",
         "js-yaml": "^4.1.0",
